@@ -1,0 +1,17 @@
+{
+  "name": "api-logging-middleware",
+  "version": "1.0.0",
+  "description": "API-based logging middleware with authentication",
+  "main": "logger.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["logging", "api", "authentication", "middleware"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^18.0.0"
+  }
+}
