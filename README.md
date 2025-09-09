@@ -54,7 +54,7 @@ URLShortener/
 
 1. **Clone/Download the project**
    ```bash
-   cd URLShortener/FrontendTestSubmission/url-shortener
+   cd https://github.com/dhairya888-maker/2201640100134
    ```
 
 2. **Install dependencies**
